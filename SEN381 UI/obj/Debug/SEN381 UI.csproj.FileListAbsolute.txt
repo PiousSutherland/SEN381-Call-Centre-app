@@ -1,0 +1,202 @@
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\bin\Debug\SEN381 UI.exe.config
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\bin\Debug\SEN381 UI.exe
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\bin\Debug\SEN381 UI.pdb
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.AssemblyReference.cache
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Properties.Resources.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.GenerateResource.cache
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.CoreCompileInputs.cache
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.exe
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.pdb
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Calls.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Dashboard.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\bin\Debug\Guna.UI2.dll
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.CopyComplete
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.CallHistory.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.AssignJob.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Clients.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Notes.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Login.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.AddNewClient.resources
+C:\Users\Thendo Ndhlovu\OneDrive - belgiumcampus.ac.za\Desktop\Projects To be proud of\C# projects-practice\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.ClientDetails.resources
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\SEN381 UI.exe
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Guna.UI2.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\MySql.Data.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\SEN381 UI.exe.config
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Google.Protobuf.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Buffers.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Memory.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Security.AccessControl.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Security.Permissions.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Twilio.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\ZstdSharp.dll
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Google.Protobuf.pdb
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Google.Protobuf.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\MySql.Data.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Buffers.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Memory.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Security.AccessControl.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Security.Permissions.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\Twilio.xml
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.AssemblyReference.cache
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\MatthiWare.SmsAndCallClient.MainForm.resources
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.AddNewClient.resources
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.AssignJob.resources
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.CallHistory.resources
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Calls.resources
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.ClientDetails.resources
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Clients.resources
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Dashboard.resources
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Login.resources
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Notes.resources
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Properties.Resources.resources
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.GenerateResource.cache
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.CoreCompileInputs.cache
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.CopyComplete
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.exe
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.pdb
+C:\Users\henko\Desktop\SEN381 UI\SEN381 UI\bin\Debug\SEN381 UI.pdb
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\SEN381 UI.exe.config
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\SEN381 UI.exe
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\SEN381 UI.pdb
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\BouncyCastle.Crypto.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Google.Protobuf.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Guna.UI2.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\K4os.Compression.LZ4.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\K4os.Hash.xxHash.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\MySql.Data.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Newtonsoft.Json.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Buffers.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.IO.Pipelines.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Memory.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Numerics.Vectors.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Security.AccessControl.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Security.Permissions.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Security.Principal.Windows.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Twilio.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\ZstdSharp.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\BouncyCastle.Crypto.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Google.Protobuf.pdb
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Google.Protobuf.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\K4os.Compression.LZ4.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\K4os.Hash.xxHash.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\MySql.Data.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Newtonsoft.Json.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Buffers.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.IO.Pipelines.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Memory.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Numerics.Vectors.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Security.AccessControl.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Security.Permissions.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Security.Principal.Windows.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Twilio.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.AssemblyReference.cache
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\MatthiWare.SmsAndCallClient.MainForm.resources
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.AddNewClient.resources
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.AssignJob.resources
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.CallHistory.resources
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Calls.resources
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.ClientDetails.resources
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Clients.resources
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Dashboard.resources
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Login.resources
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Notes.resources
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381_UI.Properties.Resources.resources
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.GenerateResource.cache
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.CoreCompileInputs.cache
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.csproj.CopyComplete
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.exe
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\obj\Debug\SEN381 UI.pdb
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\xunit.abstractions.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\xunit.runner.reporters.net452.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\xunit.runner.utility.net452.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\NuGet.Frameworks.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Collections.Immutable.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Reflection.Metadata.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\xunit.assert.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\xunit.core.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\xunit.execution.desktop.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Collections.Immutable.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\System.Reflection.Metadata.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\xunit.assert.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\xunit.core.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\xunit.execution.desktop.xml
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belgium campus\Year 3\SEN 381\Final\SEN 381 Complete2\SEN381 UI\SEN381 UI\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
